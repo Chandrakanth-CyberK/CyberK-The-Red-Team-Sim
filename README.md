@@ -38,4 +38,4 @@ This project is for educational purposes only. Do not use the techniques or tool
 
 ---
 
-If you want me to push this repository to GitHub, I will attempt to commit and push to the provided remote. If your environment requires authentication (personal access token or SSH key), you'll need to complete that authentication locally or provide credentials.
+
